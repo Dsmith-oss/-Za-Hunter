@@ -11,6 +11,7 @@
 		4A107B9C25F7D83D00266BDC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A107B9B25F7D83D00266BDC /* ContentView.swift */; };
 		4A107B9E25F7D84100266BDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A107B9D25F7D84100266BDC /* Assets.xcassets */; };
 		4A107BA125F7D84100266BDC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A107BA025F7D84100266BDC /* Preview Assets.xcassets */; };
+		4A107BAA25F7DD3D00266BDC /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A107BA925F7DD3D00266BDC /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		4A107B9D25F7D84100266BDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A107BA025F7D84100266BDC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4A107BA225F7D84100266BDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A107BA925F7DD3D00266BDC /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				4A107B9925F7D83D00266BDC /* _Za_HunterApp.swift */,
 				4A107B9B25F7D83D00266BDC /* ContentView.swift */,
+				4A107BA925F7DD3D00266BDC /* LocationManager.swift */,
 				4A107B9D25F7D84100266BDC /* Assets.xcassets */,
 				4A107BA225F7D84100266BDC /* Info.plist */,
 				4A107B9F25F7D84100266BDC /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				4A107B9C25F7D83D00266BDC /* ContentView.swift in Sources */,
 				4A107B9A25F7D83D00266BDC /* _Za_HunterApp.swift in Sources */,
+				4A107BAA25F7DD3D00266BDC /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
